@@ -1,6 +1,8 @@
 # Content Based Image Retrieval
 
-Content-based Image Retrieval (CBIR) as an example of Content-based Retrieval (CBR)
+Content-based Image Retrieval (CBIR) as an example of Content-based Retrieval (CBR). A web application that finds similar images based on the color and texture characteristics of the uploaded image.
+
+Technologies: Java 7, Servlets, JSP, LIRE API
 
 # Main idea of CBIR:
 * Representation of an image as a set of descriptors.
